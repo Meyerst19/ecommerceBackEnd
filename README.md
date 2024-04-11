@@ -1,14 +1,14 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <a name="readme-top"></a>
-    
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-    
+
 <br />
 <div align="center">
   <a href="https://github.com/Meyerst19/ecommerceBackEnd">
@@ -64,11 +64,6 @@
      
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
-### Built With
-    
-
-    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 ## Getting Started
     
@@ -94,7 +89,6 @@ Install all dependencies with the command below.
   npm install
   ```
 
-    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 ## Usage
@@ -104,14 +98,10 @@ Easy to connect and update your ecmommerce data
 _For more examples, please refer to the [Documentation](https://github.com/Meyerst19/ecommerceBackEnd)_
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-    
-## Tests
-    
-n/a
 
-    
+
 See the [open issues](https://github.com/Meyerst19/ecommerceBackEnd/issues) for a full list of proposed features (and known issues).
-    
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 ## Contributing
@@ -142,17 +132,11 @@ Tyler Meyers - [@mathnerd19](https://twitter.com/mathnerd19) - tyler.s.meyers@gm
 Project Link: [https://github.com/Meyerst19/ecommerceBackEnd](https://github.com/Meyerst19/ecommerceBackEnd)
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-    
-## Acknowledgments
-    
-n/a
 
-    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-    
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-    
+
 [contributors-shield]: https://img.shields.io/github/contributors/Meyerst19/ecommerceBackEnd.svg?style=for-the-badge
 [contributors-url]: https://github.com/Meyerst19/ecommerceBackEnd/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Meyerst19/ecommerceBackEnd.svg?style=for-the-badge
